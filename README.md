@@ -5,3 +5,4 @@ Habituarnos al ciclo de trabajo con Git
 =======
 ### informacion adicional
 >>>>>>> 4be274eaf78784af25c28512c96c1dc30352d3ec
+Linea añadida por estudiante A
