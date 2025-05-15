@@ -15,3 +15,4 @@ nueva funcionalidad rotar piezas con raton
 =======
 Nueva funcionabilidad añadida: customizacion de los colores del juego.
 >>>>>>> 7694fecdaad3961af06e80965d9241c5eb54632b
+hola
