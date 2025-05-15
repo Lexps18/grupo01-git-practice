@@ -11,3 +11,4 @@ Linea añadida por estudiante A
 linea añadida por estudiante B
 >>>>>>> e9731ef3b5d64112b117bc3173da41b70e0b3ecb
 hola
+cambios importantes
